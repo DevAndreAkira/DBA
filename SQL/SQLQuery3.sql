@@ -1,0 +1,15 @@
+USE master
+
+DROP DATABASE RoteiroPessoa;
+CREATE DATABASE RoteiroPessoa;
+
+USE RoteiroPessoa;
+
+CREATE TABLE Telefone(
+	IdTel INT PRIMARY KEY IDENTITY,
+	NumTel VARCHAR (255)
+);
+
+CREATE TABLE eMAIL(
+	IdEmail INT PRIMARY 
+);
