@@ -25,7 +25,7 @@ CREATE TABLE Tabela_Cliente (
 CREATE TABLE Tabela_Modelo (
 	IdModelo   INT PRIMARY KEY IDENTITY,
 	NomeModelo VARCHAR (200),
-	IdMarca    INT FOREIGN KEY REFERENCES Tabela_Marca(IdMarca)
+	IdMarc     INT FOREIGN KEY REFERENCES Tabela_Marca(IdMarca)
 );
 
 CREATE TABLE Tabela_Veiculo (
@@ -43,9 +43,9 @@ CREATE TABLE Tabela_Aluguel (
 	IdVeiculo  INT FOREIGN KEY REFERENCES Tabela_Veiculo(IdVeiculo)
 );
 
-SELECT * FROM Tabela_Aluguel;
-SELECT * FROM Tabela_Cliente;
-SELECT * FROM Tabela_Empresa;
-SELECT * FROM Tabela_Marca;
-SELECT * FROM Tabela_Modelo;
-SELECT * FROM Tabela_Veiculo;
+	SELECT * FROM Tabela_Aluguel;
+	SELECT * FROM Tabela_Cliente;
+	SELECT * FROM Tabela_Empresa;
+	SELECT * FROM Tabela_Marca;
+	SELECT * FROM Tabela_Modelo;
+	SELECT * FROM Tabela_Veiculo;
