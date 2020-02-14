@@ -1,0 +1,23 @@
+API Controller
+
+{
+	[Produces("application/json")]
+	[Route("api/[controller]")]
+	[ApiController]
+
+	public GenerosControleer: ControllerBase
+	{
+		private IGeneroRepository _generoRepository {get; set;}
+
+		public GenerosController()
+		{
+			_generoRepository = new GeneroRepository();
+		}
+
+		[HttpGet]
+		public IEnumerable<GeneroDomain> Get()
+		{
+			return _generoRepository.Listar();
+		}
+	}
+}

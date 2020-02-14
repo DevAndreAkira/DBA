@@ -1,0 +1,11 @@
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\bin\Debug\netcoreapp2.1\senai-filmes.deps.json
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\bin\Debug\netcoreapp2.1\senai-filmes.runtimeconfig.json
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\bin\Debug\netcoreapp2.1\senai-filmes.runtimeconfig.dev.json
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\bin\Debug\netcoreapp2.1\senai-filmes.dll
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.csprojAssemblyReference.cache
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.csproj.CoreCompileInputs.cache
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.RazorAssemblyInfo.cache
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.RazorAssemblyInfo.cs
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.AssemblyInfoInputs.cache
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.AssemblyInfo.cs
+C:\Users\43036207856\source\repos\senai-filmes\senai-filmes\obj\Debug\netcoreapp2.1\senai-filmes.RazorTargetAssemblyInfo.cache
